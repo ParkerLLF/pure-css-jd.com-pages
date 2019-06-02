@@ -440,6 +440,50 @@ body {
     padding-top: 15px;
 }
 .links  {
-    font-size: 10px;
     text-align: center;
+}
+.links a {
+    color: #727272;
+    font-size: 12px;
+}
+.links span {
+    font-size: 12px;
+    color: #d4cdcd;
+    margin: 0 0px;
+}
+.c-info {
+    font-size: 12px;
+    color: #9e9e98;
+    line-height: 20px;
+    text-align: center;
+    margin-top: 10px;
+}
+.c-info p {
+    margin-top: 5px;
+}
+.pic {
+    text-align: center;
+    margin-top: 25px;
+}
+.pic a {
+    width: 103px;
+    height: 32px;
+    display: inline-block;
+    background-color: pink;
+    background: url(../images/ico_footer.png) no-repeat 0px -150px;
+}
+.pic .kexin  {
+    background-position: 0 -150px;
+}
+.pic .wangluo {
+    background-position: -106px -150px;
+}
+.pic .chengxin {
+    background-position: 0 -185px;
+}
+.pic .jubao {
+    background-position: -106px -185px;
+}
+.pic .xiazai {
+    background-position: 0 -218px;
 }
