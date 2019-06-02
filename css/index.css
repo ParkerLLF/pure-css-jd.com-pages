@@ -1,0 +1,14 @@
+
+/* 京东首页开始  */
+.jd {
+    height: 480px;
+    background-color:pink;
+}
+.jd-inner {
+    height: 480px;
+    background-color: aqua;
+}
+.ad {
+    height: 480px;
+    background: url(../images/ad-l.png) no-repeat;
+}
