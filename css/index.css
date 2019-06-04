@@ -135,3 +135,18 @@
     background-color: yellow;
     float: left;
 }
+/* 右边 */
+.user {
+    height: 95px;
+    
+    background: pink;
+    padding: 20px 15px 0 ;
+}
+.news {
+    height: 155px;
+    background-color: purple;
+}
+.jd-service {
+    height: 210px;
+    background-color: aqua;
+}
