@@ -1,4 +1,6 @@
-
+a {
+    text-decoration: none;
+}
 /* 京东首页开始  */
 .jd {
     height: 480px;
@@ -142,12 +144,20 @@
     background: pink;
     padding: 20px 15px 0 ;
 }
-.user img  {
+.user_img img  {
     position: absolute;
     left: 50px;
     top: -10px;
     border-radius: 50%;
     box-shadow: 10px 10px 20px rgba(0 , 0 , 0 , 0.3) ;
+}
+.user p {
+    display: block;
+    position: absolute;
+    top: 50px;
+    font-size: 12px;
+    width: 100px;
+    height: 20px;
 }
 .news {
     height: 155px;
